@@ -4,7 +4,7 @@ Onehub offers a comprehensive Bulk SMS solution, providing both a user-friendly 
 
 ## Getting Started
 
-To start using Onehub's Bulk SMS services, you'll need an API key, which you can obtain from our dashboard. Simply sign up or log in to your account on our [website](onehub.co.ke) to access your API key.
+To start using Onehub's Bulk SMS services, you'll need an API key, which you can obtain from our dashboard. Simply sign up or log in to your account on our [website](https://onehub.co.ke/) to access your API key.
 
 ## Sending Messages
 
